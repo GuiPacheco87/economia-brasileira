@@ -1,0 +1,21 @@
+scenario,year,gdp_real_pct,ipca_pct,selic_eop_pct,gross_debt_pct_gdp,source_note
+base_fmi,2027,2.2,3.2,9.3,100.0,FMI Article IV 2026
+base_fmi,2028,2.4,3.1,8.0,102.0,FMI Article IV 2026
+base_fmi,2029,2.5,3.1,8.0,103.7,FMI Article IV 2026
+base_fmi,2030,2.5,3.1,8.0,104.8,FMI Article IV 2026
+base_fmi,2031,2.5,3.1,8.0,105.3,FMI Article IV 2026
+focus_convergence,2027,1.43,4.3,12.0,101.0,Focus through 2029; debt is scenario assumption
+focus_convergence,2028,1.87,3.8,10.5,103.5,Focus through 2029; debt is scenario assumption
+focus_convergence,2029,2.0,3.5,10.0,105.5,Focus through 2029; debt is scenario assumption
+focus_convergence,2030,2.1,3.3,9.5,107.0,Technical convergence assumption
+focus_convergence,2031,2.2,3.2,9.0,108.0,Technical convergence assumption
+optimistic,2027,2.7,3.7,10.5,98.0,Author scenario
+optimistic,2028,2.9,3.3,9.0,98.2,Author scenario
+optimistic,2029,3.1,3.1,8.0,97.8,Author scenario
+optimistic,2030,3.2,3.0,7.5,96.7,Author scenario
+optimistic,2031,3.2,3.0,7.5,95.5,Author scenario
+adverse,2027,1.0,5.2,13.5,103.0,Author scenario
+adverse,2028,0.9,5.0,13.0,107.0,Author scenario
+adverse,2029,1.3,4.6,12.0,111.0,Author scenario
+adverse,2030,1.6,4.3,11.5,114.0,Author scenario
+adverse,2031,1.8,4.0,11.0,116.0,Author scenario
